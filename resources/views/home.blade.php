@@ -68,6 +68,7 @@
             </v-layout>
         </v-app>
     </div>
+    
     <!--Scripts-->
     <script src="{{asset('js/app.js')}}"></script>
 
